@@ -1,0 +1,68 @@
+﻿Zimmerzahl,Stockwerk,Heizung,Hausmeister,Kindergarten,Schule,S-Bahn,Garage,Alter,Aufzug,Lage,Kaution,Kueche,Bad,Balkon,Terrasse,Kehrwoche,Moebliert,Miete ,Nebenkosten,Quadratmeter,Bewohner,Altersklasse
+3-4 Zimmer,2.Stock,Gas-Zentral,ja,erreichbar,erreichbar,erreichbar,nein,Neubau,ja,Hauptstrasse,keine,Kueche (neu),Dusche + Wanne,ja,nein,nein,nein,550,171,81,Paar,20-30
+5 Zimmer,3.Stock,Oel,ja,fern,fern,erreichbar,nein,76-100 Jahre,ja,Hauptstrasse,keine,Kueche (alt),Dusche,ja,nein,nein,nein,750,251,118,Paar,20-30
+5-6 Zimmer,2.Stock,Gas-Etage,ja,nah,fern,nah,nein,11-15 Jahre,ja,Hauptstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,ja,nein,nein,nein,780,291,190,Paar,30-40
+4 Zimmer,1.Stock,Oel,ja,nah,erreichbar,nah,nein,4-7 Jahre,ja,Hauptstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,ja,nein,nein,nein,570,251,98,Paar,20-30
+4 Zimmer,2.Stock,Erdwaerme,ja,erreichbar,fern,nah,nein,21-30 Jahre,ja,Wohngebiet,ueber 3000,Kueche (alt),Dusche + Wanne,ja,nein,nein,nein,560,241,90,Paar,20-30
+5-6 Zimmer,7.Stock,Oel,ja,fern,erreichbar,nah,ja,11-15 Jahre,ja,Hauptstrasse,ueber 3000,keine,Waschbecken,ja,nein,nein,nein,770,350,210,Paar,40-50
+4-5 Zimmer,3.Stock,Gas-Zentral,ja,fern,fern,nein,nein,7-10 Jahre,ja,Nebenstrasse,keine,Kueche (alt),Dusche + Wanne,ja,nein,nein,nein,620,241,104,Paar,20-30
+5 Zimmer,3.Stock,Oel,ja,erreichbar,erreichbar,nein,nein,51-75 Jahre,ja,Wohngebiet,ueber 3000,Kueche (alt),Badewanne,ja,nein,nein,nein,740,251,107,Paar,20-30
+5-6 Zimmer,2.Stock,Gas-Etage,ja,erreichbar,nah,erreichbar,ja,Neubau,nein,Hauptstrasse,1000-1500,Kueche (alt),Dusche + Wanne,ja,nein,nein,teilmoebliert,870,261,160,Paar,40-50
+3-4 Zimmer,6.Stock,Oel,ja,nah,erreichbar,nah,ja,7-10 Jahre,ja,Hauptstrasse,keine,Kueche (alt),Dusche + Wanne,ja,nein,nein,nein,570,201,85,Paar,20-30
+3-4 Zimmer,4.Stock,Oel,nein,nah,erreichbar,erreichbar,ja,4-7 Jahre,ja,Hauptstrasse,ueber 3000,Kueche (alt),Waschbecken,nein,nein,nein,ja,560,231,84,Single,20-30
+3 Zimmer,EG,Oel,nein,erreichbar,erreichbar,nein,nein,Neubau,nein,Hauptstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,nein,ja,nein,ja,530,181,76,Single,20-30
+5 Zimmer,EG,Erdwaerme,nein,erreichbar,nah,nah,nein,31-50 Jahre,nein,Spielstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,nein,nein,nein,nein,720,291,112,Familie,20-30
+4-5 Zimmer,EG,Pellets,nein,nah,nah,erreichbar,ja,Neubau,nein,Hauptstrasse,ueber 3000,keine,Dusche,ja,nein,nein,nein,740,221,104,Familie,20-30
+5 Zimmer,1.Stock,Oel,ja,erreichbar,nah,nah,nein,51-75 Jahre,nein,Spielstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,nein,nein,nein,nein,760,301,117,Familie,20-30
+4 Zimmer,7.Stock,Erdwaerme,ja,erreichbar,nah,erreichbar,ja,4-7 Jahre,ja,Hauptstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,ja,nein,nein,nein,570,221,96,Familie,20-30
+5 Zimmer,5.Stock,Gas-Etage,nein,erreichbar,nah,nah,nein,4-7 Jahre,ja,Hauptstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,ja,nein,nein,nein,740,301,111,Familie,20-30
+4 Zimmer,2.Stock,Gas-Zentral,nein,erreichbar,nah,nah,ja,51-75 Jahre,ja,Hauptstrasse,keine,Kueche (neu),Dusche,ja,nein,nein,nein,640,241,96,Familie,20-30
+4 Zimmer,EG,Gas-Zentral,nein,erreichbar,nah,nah,nein,4-7 Jahre,nein,Hauptstrasse,ueber 3000,Kueche (alt),Badewanne,nein,nein,nein,nein,650,241,92,Familie,20-30
+4 Zimmer,3.Stock,Oel,nein,erreichbar,nah,nein,nein,4-7 Jahre,ja,Hauptstrasse,ueber 3000,Kueche (alt),Badewanne,ja,nein,nein,nein,650,211,95,Familie,20-30
+4-5 Zimmer,2.Stock,Oel,nein,erreichbar,nah,nah,ja,76-100 Jahre,ja,Hauptstrasse,ueber 3000,Kueche (neu),Dusche + Wanne,nein,nein,ja,nein,570,251,105,Familie,20-30
+4 Zimmer,4.Stock,Erdwaerme,nein,erreichbar,nah,nein,nein,16-20 Jahre,ja,Wohngebiet,ueber 3000,Kueche (alt),Badewanne,nein,nein,nein,nein,650,211,91,Familie,20-30
+4 Zimmer,1.Stock,Erdwaerme,nein,nah,nah,erreichbar,nein,7-10 Jahre,ja,Hauptstrasse,keine,Kueche (alt),Dusche,ja,ja,nein,nein,580,181,82,Familie,20-30
+5 Zimmer,EG,Erdwaerme,ja,nah,nah,nein,nein,31-50 Jahre,nein,Hauptstrasse,keine,Kueche (alt),Badewanne,nein,nein,nein,nein,650,231,113,Familie,20-30
+3-4 Zimmer,2.Stock,Oel,nein,nah,nah,nah,nein,11-15 Jahre,nein,Nebenstrasse,keine,Kueche (alt),Badewanne,nein,nein,nein,nein,500,141,80,Familie,20-30
+5 Zimmer,2.Stock,Oel,nein,erreichbar,nah,nein,nein,7-10 Jahre,ja,Nebenstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,ja,nein,nein,nein,690,271,104,Familie,20-30
+3-4 Zimmer,1.Stock,Oel,nein,erreichbar,nah,mit Bus,nein,ueber 100,nein,Nebenstrasse,keine,Kueche (neu),Dusche,nein,nein,nein,nein,570,201,85,Familie,20-30
+5 Zimmer,EG,Gas-Etage,nein,erreichbar,nah,nah,nein,7-10 Jahre,nein,Hauptstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,nein,nein,nein,nein,710,251,117,Familie,20-30
+4 Zimmer,5.Stock,Erdwaerme,ja,erreichbar,nah,erreichbar,ja,51-75 Jahre,ja,Hauptstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,nein,nein,ja,nein,580,191,87,Familie,20-30
+4-5 Zimmer,1.Stock,Gas-Etage,nein,nah,nah,nein,ja,4-7 Jahre,nein,Wohngebiet,keine,Kueche (alt),Dusche,nein,nein,nein,nein,650,241,112,Familie,20-30
+3-4 Zimmer,6.Stock,Oel,nein,nah,nah,nein,nein,51-75 Jahre,ja,Nebenstrasse,1000-1500,Kueche (alt),Dusche + Wanne,ja,nein,ja,nein,550,151,90,Familie,20-30
+4 Zimmer,7.Stock,Oel,ja,nah,nah,mit Bus,ja,ueber 100,ja,Nebenstrasse,ueber 3000,Kueche (alt),Dusche,ja,nein,ja,nein,570,231,95,Familie,20-30
+4-5 Zimmer,3.Stock,Pellets,nein,erreichbar,nah,nein,ja,11-15 Jahre,nein,Spielstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,ja,nein,nein,nein,640,211,107,Familie,20-30
+3-4 Zimmer,EG,Lüftungsheizung,nein,nah,nah,mit Bus,nein,Neubau,nein,Spielstrasse,keine,Kueche (alt),Badewanne,nein,nein,ja,nein,510,171,88,Familie,20-30
+4 Zimmer,3.Stock,Oel,nein,erreichbar,nah,nah,nein,Neubau,nein,Hauptstrasse,keine,Kueche (alt),Dusche + Wanne,nein,nein,nein,nein,560,151,97,Familie,20-30
+5 Zimmer,3.Stock,Oel,nein,erreichbar,nah,erreichbar,nein,76-100 Jahre,ja,Nebenstrasse,ueber 3000,Kueche (alt),Dusche,ja,nein,ja,nein,720,450,117,Familie,20-30
+4 Zimmer,EG,Gas-Zentral,nein,nah,nah,nein,nein,11-15 Jahre,nein,Hauptstrasse,keine,Kueche (alt),Dusche,nein,nein,nein,nein,600,221,100,Familie,20-30
+5 Zimmer,3.Stock,Gas-Zentral,ja,erreichbar,nah,erreichbar,nein,11-15 Jahre,ja,Hauptstrasse,ueber 3000,Kueche (alt),Dusche,ja,nein,nein,nein,630,201,107,Familie,20-30
+4 Zimmer,EG,Gas-Zentral,nein,nah,nah,erreichbar,nein,4-7 Jahre,nein,Wohngebiet,ueber 3000,Kueche (alt),Dusche,nein,nein,nein,nein,590,201,85,Familie,20-30
+5 Zimmer,EG,Oel,nein,nah,nah,nah,ja,21-30 Jahre,nein,Hauptstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,nein,ja,nein,nein,700,241,101,Familie,20-30
+3-4 Zimmer,EG,Erdwaerme,nein,nah,nah,erreichbar,ja,4-7 Jahre,nein,Nebenstrasse,ueber 3000,Kueche (alt),Dusche,nein,nein,nein,nein,520,191,88,Familie,20-30
+5 Zimmer,EG,Oel,nein,nah,nah,erreichbar,nein,Neubau,nein,Hauptstrasse,keine,Kueche (neu),Badewanne,nein,nein,nein,nein,700,231,105,Familie,20-30
+4-5 Zimmer,8.Stock,Oel,nein,nah,nah,nein,nein,1-3 Jahre,ja,Hauptstrasse,ueber 3000,Kueche (alt),Dusche,ja,nein,ja,nein,650,261,107,Familie,20-30
+5 Zimmer,4.Stock,Pellets,nein,erreichbar,nah,erreichbar,nein,76-100 Jahre,ja,Hauptstrasse,ueber 3000,keine,Badewanne,ja,nein,nein,nein,680,231,101,Familie,20-30
+4 Zimmer,2.Stock,Pellets,nein,erreichbar,nah,nein,nein,11-15 Jahre,nein,Hauptstrasse,ueber 3000,Kueche (alt),Dusche,ja,nein,nein,nein,580,201,93,Familie,20-30
+4 Zimmer,EG,Oel,nein,nah,nah,erreichbar,nein,ueber 100,nein,Abgelegen,ueber 3000,Kueche (alt),Dusche,nein,nein,nein,nein,590,201,89,Familie,20-30
+4-5 Zimmer,4.Stock,Oel,nein,erreichbar,nah,erreichbar,nein,21-30 Jahre,ja,Nebenstrasse,ueber 3000,Kueche (alt),Dusche + Wanne,ja,nein,ja,nein,700,221,107,Familie,20-30
+4-5 Zimmer,EG,Erdwaerme,nein,nah,nah,erreichbar,nein,ueber 100,nein,Abgelegen,ueber 3000,Kueche (alt),Dusche,nein,nein,nein,nein,700,231,116,Familie,20-30
+Ein Zimmer,EG,Gas-Etage,nein,erreichbar,fern,nein,nein,Neubau,nein,Hauptstrasse,keine,Kueche (alt),Dusche + Wanne,nein,nein,nein,nein,210,50,23,Studi,20-30
+Ein Zimmer,8.Stock,Pellets,nein,fern,nah,mit Bus,nein,16-20 Jahre,ja,Hauptstrasse,keine,Kueche (alt),Badewanne,ja,nein,nein,nein,220,50,37,Studi,20-30
+Ein Zimmer,EG,Erdwaerme,ja,erreichbar,erreichbar,erreichbar,nein,4-7 Jahre,nein,Hauptstrasse,keine,Kueche (alt),Dusche + Wanne,nein,nein,nein,nein,240,50,40,Studi,20-30
+Zwei Zimmer,EG,Erdwaerme,nein,erreichbar,fern,erreichbar,nein,51-75 Jahre,nein,Hauptstrasse,keine,Kueche (alt),Dusche + Wanne,nein,nein,nein,nein,270,50,39,Rentner,60-70
+Ein Zimmer,3.Stock,Erdwaerme,nein,erreichbar,fern,erreichbar,ja,1-3 Jahre,ja,Nebenstrasse,keine,Kueche (alt),Dusche,nein,nein,nein,nein,260,50,27,Studi,20-30
+Ein Zimmer,3.Stock,Oel,ja,nah,fern,nein,nein,51-75 Jahre,nein,Hauptstrasse,keine,Kueche (alt),Badewanne,ja,nein,nein,nein,250,50,27,Studi,20-30
+Ein Zimmer,4.Stock,Erdwaerme,nein,erreichbar,nah,nah,ja,4-7 Jahre,ja,Nebenstrasse,keine,Kueche (alt),Badewanne,ja,nein,nein,nein,250,100,36,Studi,20-30
+Zwei Zimmer,3.Stock,Gas-Etage,nein,nah,fern,nah,nein,Neubau,ja,Wohngebiet,keine,Kueche (alt),Dusche + Wanne,ja,nein,nein,nein,260,50,39,Rentner,60-70
+Ein Zimmer,3.Stock,Oel,ja,erreichbar,nah,mit Bus,nein,76-100 Jahre,ja,Nebenstrasse,keine,Kueche (alt),Dusche + Wanne,ja,nein,ja,nein,260,50,33,Studi,20-30
+Ein Zimmer,1.Stock,Pellets,ja,erreichbar,nah,nah,nein,ueber 100,ja,Nebenstrasse,keine,Kueche (alt),Dusche,nein,nein,nein,nein,280,60,37,Studi,20-30
+Ein Zimmer,2.Stock,Gas-Etage,nein,nah,fern,nah,nein,76-100 Jahre,ja,Hauptstrasse,keine,Kueche (alt),Dusche,nein,nein,nein,nein,280,50,22,Studi,20-30
+Ein Zimmer,7.Stock,Oel,ja,fern,fern,erreichbar,ja,51-75 Jahre,ja,Hauptstrasse,keine,Kueche (alt),Badewanne,ja,nein,ja,nein,290,80,39,Studi,20-30
+Ein Zimmer,4.Stock,Oel,nein,fern,nah,mit Bus,ja,21-30 Jahre,ja,Hauptstrasse,keine,Kueche (alt),Dusche + Wanne,ja,nein,ja,nein,250,80,23,Studi,20-30
+Ein Zimmer,6.Stock,Oel,nein,nah,nah,nein,nein,ueber 100,ja,Spielstrasse,keine,Kueche (alt),Dusche,ja,nein,nein,nein,250,50,39,Studi,20-30
+Ein Zimmer,EG,Oel,nein,erreichbar,fern,nein,nein,51-75 Jahre,nein,Hauptstrasse,keine,Kueche (alt),Dusche auf Flur,nein,nein,nein,nein,300,50,26,Studi,20-30
+Zwei Zimmer,1.Stock,Oel,ja,nah,erreichbar,nah,nein,7-10 Jahre,ja,Spielstrasse,keine,Kueche (alt),Dusche + Wanne,nein,ja,nein,nein,270,60,36,Rentner,60-70
+Ein Zimmer,3.Stock,Oel,ja,nah,erreichbar,erreichbar,nein,ueber 100,ja,Hauptstrasse,keine,Kueche (alt),Waschbecken,ja,nein,ja,nein,270,50,23,Studi,20-30
+Ein Zimmer,1.Stock,Erdwaerme,nein,fern,nah,erreichbar,ja,ueber 100,ja,Hauptstrasse,keine,Kueche (neu),Dusche + Wanne,ja,nein,nein,nein,210,50,21,Studi,20-30
+Ein Zimmer,EG,Erdwaerme,nein,erreichbar,erreichbar,erreichbar,nein,4-7 Jahre,nein,Hauptstrasse,keine,Kueche (alt),Dusche,ja,nein,nein,nein,300,50,31,Studi,20-30
